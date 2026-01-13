@@ -136,9 +136,7 @@ export default function LoginPage() {
           </div>
           <h1 className="text-3xl font-bold text-gray-900">AI Todo Manager</h1>
           <p className="text-gray-600">
-            자연어로 할 일을 입력하면 AI가 구조화하고,
-            <br />
-            버튼 한 번으로 오늘과 이번 주 할 일을 요약해주는 서비스
+            AI가 도와주는 스마트한 할 일 관리
           </p>
         </div>
 
